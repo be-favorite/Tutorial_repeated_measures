@@ -1,0 +1,32 @@
+---
+title: "<center> **<font size = 5>R을 이용한 반복측정 자료 분석 **</font> </center>"
+author: "방태모"
+date: "2021-05-12"
+output: 
+  rmdformats::robobook
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+<style>
+.math {
+  font-size: small;
+}
+</style>
+
+<br>
+
+## **1 Preparing**
+***
+
+### 1.1 loading libraries
+
+### 1.2 loading data
+
+## **2 RM ANOVA**
+***
+
+### 2.1 RCBD와의 비교
+
+## **3 MANOVA**
+***
