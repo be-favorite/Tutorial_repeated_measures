@@ -1,9 +1,9 @@
-# R을 이용한 반복측정 분산분석(repeated measures ANOVA, RM ANOVA)
+# R을 이용한 반복측정 자료 분석
 * 이론 정리: https://be-favorite.tistory.com/83
 * 튜토리얼: Still in progress
 
 ## Introduction
-이 Repo에서는 R을 이용한 반복측정 분산분석뿐만 아니라, 반복측정 자료의 전반적인 분석 절차에 대해 다룹니다. 
+이 Repo에서는 R을 이용한 반복측정 분산분석(repeated measures ANOVA, RM ANOVA)뿐만 아니라, 반복측정 자료의 전반적인 분석 절차에 대해 다룹니다. 
 
 반복측정 자료, 반복측정 자료의 분석 방법에 대한 개념이 부족하다면 상기 "이론 정리"에 기재된 링크를 참고해주세요.
 
